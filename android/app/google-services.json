@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290014687155",
+    "project_id": "testflutterflow-4ce23",
+    "storage_bucket": "testflutterflow-4ce23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290014687155:android:f81e7d32c44132a25665c6",
+        "android_client_info": {
+          "package_name": "com.mycompany.testflutterflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaLa1QzcEYG5GpCpKj7PiWsbLNyR1aJu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
